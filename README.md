@@ -23,13 +23,13 @@ In the competitive landscape of automobile sales, determining a car's selling pr
 
 **Algorithms Used:**
 
-    1. **K-Means Clustering:** Used to segment cars into different price clusters based on year and selling price, allowing for better understanding of market segmentation.
+   1. **K-Means Clustering:** Used to segment cars into different price clusters based on year and selling price, allowing for better understanding of market segmentation.
 
-    2. **Hierarchical Clustering:** Applied to identify hierarchical relationships between cars based on year and price, visualized using a dendrogram.
+   2. **Hierarchical Clustering:** Applied to identify hierarchical relationships between cars based on year and price, visualized using a dendrogram.
 
-    3. **K-Nearest Neighbors (KNN):** Implemented to classify cars into price categories (above or below $11,000) using features like year, odometer reading, and condition. The model achieved strong accuracy, validated by the classification report and confusion matrix.
+   3. **K-Nearest Neighbors (KNN):** Implemented to classify cars into price categories (above or below $11,000) using features like year, odometer reading, and condition. The model achieved strong accuracy, validated by the classification report and confusion matrix.
 
-    4. **Linear Regression:** Used to predict car selling prices based on features such as year, odometer reading, and condition. The model provided strong performance with low Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE).
+   4. **Linear Regression:** Used to predict car selling prices based on features such as year, odometer reading, and condition. The model provided strong performance with low Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE).
 
 **Exploratory Data Analysis (EDA) and Visualizations:**
 
@@ -49,9 +49,21 @@ The visualizations generated from the dataset highlighted several important tren
 
 **Results:**
 
-    - The KNN classifier accurately predicted price categories, confirmed by a high classification report score and a well-formed confusion matrix.
-    - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
-    - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
+   - The KNN classifier accurately predicted price categories, confirmed by a high classification report score and a well-formed confusion matrix.
+
+     ![image](https://github.com/user-attachments/assets/9ecc9c3b-dfe6-4c17-8de1-5365e5fa27de)
+
+   - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
+
+     ![image](https://github.com/user-attachments/assets/cec9e496-cf08-4075-8d9e-743d663e6113)
+
+   - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
+
+   ![image](https://github.com/user-attachments/assets/31987652-10e0-4d40-b1f8-4a47f6275fe4)
+
+   ![image](https://github.com/user-attachments/assets/093f4a4b-164d-482b-81b1-50bdaaf76310)
+
+   ![image](https://github.com/user-attachments/assets/0ca76e1b-2161-4655-aab5-82e5f2b07af9)
 
 
 
