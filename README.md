@@ -35,4 +35,5 @@ The visualizations generated from the dataset highlighted several important tren
    
    **Line Charts:** A noticeable upward trend in selling prices over the years could be attributed to inflation or shifts in consumer preferences toward higher-priced models.
 
-          ![image](https://github.com/user-attachments/assets/d867f115-c293-4947-84e0-d65f05ddd986)
+          ![image](https://github.com/user-attachments/assets/a5f26783-c779-4df9-8203-7b4ef47396d5)
+
