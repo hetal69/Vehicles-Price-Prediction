@@ -51,11 +51,11 @@ The visualizations generated from the dataset highlighted several important tren
 
    - The KNN classifier accurately predicted price categories, confirmed by a high classification report score and a well-formed confusion matrix.
 
-                             ![image](https://github.com/user-attachments/assets/9ecc9c3b-dfe6-4c17-8de1-5365e5fa27de)
+      ![image](https://github.com/user-attachments/assets/9ecc9c3b-dfe6-4c17-8de1-5365e5fa27de)
 
    - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
 
-        ![image](https://github.com/user-attachments/assets/cec9e496-cf08-4075-8d9e-743d663e6113)
+      ![image](https://github.com/user-attachments/assets/cec9e496-cf08-4075-8d9e-743d663e6113)
 
    - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
 
