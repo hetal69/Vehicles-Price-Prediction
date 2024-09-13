@@ -55,7 +55,7 @@ The visualizations generated from the dataset highlighted several important tren
 
    - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
 
-      ![image](https://github.com/user-attachments/assets/39da1190-8314-442a-b9cf-a6756a78754e)
+      ![image](https://github.com/user-attachments/assets/c8d18a04-2a35-44b2-a45a-687a4f9d1d68)
 
    - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
 
