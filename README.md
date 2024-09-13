@@ -21,6 +21,16 @@ In the competitive landscape of automobile sales, determining a car's selling pr
    - Outliers in 'selling price' data indicate rare or luxury vehicles, which could skew average pricing trends.
    - The preference for automatic transmission and specific colors and makes significantly impact car sales.
 
+**Algorithms Used:**
+
+    1. **K-Means Clustering:** Used to segment cars into different price clusters based on year and selling price, allowing for better understanding of market segmentation.
+
+    2. **Hierarchical Clustering:** Applied to identify hierarchical relationships between cars based on year and price, visualized using a dendrogram.
+
+    3. **K-Nearest Neighbors (KNN):** Implemented to classify cars into price categories (above or below $11,000) using features like year, odometer reading, and condition. The model achieved strong accuracy, validated by the classification report and confusion matrix.
+
+    4. **Linear Regression:** Used to predict car selling prices based on features such as year, odometer reading, and condition. The model provided strong performance with low Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE).
+
 **Exploratory Data Analysis (EDA) and Visualizations:**
 
 The visualizations generated from the dataset highlighted several important trends:
@@ -36,5 +46,12 @@ The visualizations generated from the dataset highlighted several important tren
    **Line Charts:** A noticeable upward trend in selling prices over the years could be attributed to inflation or shifts in consumer preferences toward higher-priced models.
 
    ![photo_2024-09-13_18-27-09](https://github.com/user-attachments/assets/07593649-a3ac-4df9-a1d9-eb8cf9c01391)
+
+**Results:**
+
+    - The KNN classifier accurately predicted price categories, confirmed by a high classification report score and a well-formed confusion matrix.
+    - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
+    - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
+
 
 
