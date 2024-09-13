@@ -53,7 +53,7 @@ The visualizations generated from the dataset highlighted several important tren
 
       ![image](https://github.com/user-attachments/assets/9ecc9c3b-dfe6-4c17-8de1-5365e5fa27de)
 
-   - The Linear Regression model achieved a RMSE of ~1584 and MAE of ~1342, indicating its strong predictive power for estimating selling prices.
+   - The Linear Regression model achieved an RMSE of 5267.36 and an MAE of 4070.18, demonstrating its effectiveness in estimating car selling prices with room for improvement.
 
       ![image](https://github.com/user-attachments/assets/c8d18a04-2a35-44b2-a45a-687a4f9d1d68)
 
