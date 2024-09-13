@@ -59,11 +59,11 @@ The visualizations generated from the dataset highlighted several important tren
 
    - Cluster analysis using K-Means and Hierarchical Clustering revealed clear segmentation of car prices based on features such as the year of the car and its condition.
 
-   ![image](https://github.com/user-attachments/assets/31987652-10e0-4d40-b1f8-4a47f6275fe4)
+      ![image](https://github.com/user-attachments/assets/31987652-10e0-4d40-b1f8-4a47f6275fe4)
 
-   ![image](https://github.com/user-attachments/assets/093f4a4b-164d-482b-81b1-50bdaaf76310)
+      ![image](https://github.com/user-attachments/assets/093f4a4b-164d-482b-81b1-50bdaaf76310)
 
-   ![image](https://github.com/user-attachments/assets/0ca76e1b-2161-4655-aab5-82e5f2b07af9)
+      ![image](https://github.com/user-attachments/assets/0ca76e1b-2161-4655-aab5-82e5f2b07af9)
 
 
 
